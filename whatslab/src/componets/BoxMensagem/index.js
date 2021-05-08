@@ -1,9 +1,9 @@
+
+
 import {ContainerBox, Mensagem} from './stylead';
 
 
 function BoxMensagem (){
-
-    
 
     return(
         <ContainerBox>

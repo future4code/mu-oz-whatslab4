@@ -1,4 +1,4 @@
-
+import React from 'react';
 //image
 
 
@@ -13,19 +13,29 @@ import {
 
 
 
-function Inputs (props){
+ class Inputs extends React.Component {
 
+  //Construtor
+  state ={
+    mensagem: [
+      {
+        usuario:"",
+        mensagem:""
+      }
+    ]
+  }
 
-
-    return(
-        
-        <ContainerInput>
-            <InputNome type="text"  placeholder="Usuário"/>
-            <InputMensagem type="text"  placeholder="Mensagem" />
-            <Button type="">Enviar</Button>
-          </ContainerInput>
-        
-    );
+    render() {
+        return(
+              
+          <ContainerInput>
+              <InputNome type="text"  placeholder="Usuário"/>
+              <InputMensagem type="text"  placeholder="Mensagem" />
+              <Button type="">Enviar</Button>
+            </ContainerInput>
+          
+      );
+    }  
 }
 export default Inputs;
 

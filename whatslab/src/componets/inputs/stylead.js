@@ -5,8 +5,8 @@ export const ContainerInput = styled.form`
    display:grid;
    grid-template-columns: 150px 1fr 75px;
    gap: 10px;
-   height: 40px;
-   padding:10px;
+   
+   
 `
 
 export const InputNome = styled.input``

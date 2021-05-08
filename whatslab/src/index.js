@@ -5,18 +5,16 @@ import ReactDOM from 'react-dom';
 import {ContainerGeral} from './styles/index'
 
 //Component
-import Inputs from './componets/inputs/index'
-import BoxMensagem from './componets/BoxMensagem'
-
-//import App from './App';
+//import Inputs from './componets/inputs/index'
+//import BoxMensagem from './componets/BoxMensagem'
+import App from './App';
 
 
 
 ReactDOM.render(
   <React.StrictMode>
     <ContainerGeral>
-        <BoxMensagem />
-        <Inputs />
+        <App />
     </ContainerGeral>
   </React.StrictMode>,
   document.getElementById('root')
