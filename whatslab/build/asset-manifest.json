@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2060b82.chunk.css",
+    "main.js": "/static/js/main.dffd0286.chunk.js",
+    "main.js.map": "/static/js/main.dffd0286.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.40accf23.js",
+    "runtime-main.js.map": "/static/js/runtime-main.40accf23.js.map",
+    "static/js/2.4a967a78.chunk.js": "/static/js/2.4a967a78.chunk.js",
+    "static/js/2.4a967a78.chunk.js.map": "/static/js/2.4a967a78.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c2060b82.chunk.css.map": "/static/css/main.c2060b82.chunk.css.map",
+    "static/js/2.4a967a78.chunk.js.LICENSE.txt": "/static/js/2.4a967a78.chunk.js.LICENSE.txt",
+    "static/media/Fundowhatsapp2.eb304d96.png": "/static/media/Fundowhatsapp2.eb304d96.png",
+    "static/media/send.cb64e542.svg": "/static/media/send.cb64e542.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40accf23.js",
+    "static/js/2.4a967a78.chunk.js",
+    "static/css/main.c2060b82.chunk.css",
+    "static/js/main.dffd0286.chunk.js"
+  ]
+}
